@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Project name="ProjName">
+  <!--This file associates systems with their relevant diagram files-->
+  <Systems>
+    <SysName>
+      <Diagram>ProjName-SysName-#.png</Diagram>
+    </SysName>
+  </Systems>
+</Project>
